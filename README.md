@@ -201,5 +201,6 @@ function goPage(num) {
 <img width="1919" height="1199" alt="Screenshot 2025-11-21 141123" src="https://github.com/user-attachments/assets/d0f5e894-ffc7-43f0-9a86-b330c9f26f24" />
 
 
+
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
